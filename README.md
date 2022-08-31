@@ -2,13 +2,13 @@
 - 👀 I’m interested in Front-end UI/UX.
 - 🌱 I’m currently learning Fullstack in bootcamp SoyHenry
 
-const Nano = require('Nanomarquez') 
+const Nano = require('Nanomarquez');
 
-import Bio from 'Bio'
+import Bio from './Bio';
 
 const CreateDescription = () => {
-
-
+	
+Bio.use(Nano);
 	
     return (
             <div>
@@ -17,7 +17,7 @@ const CreateDescription = () => {
                   <h2>🔭 I’m currently working on </h2>
                           <p> I'm not working rigth now </p>
                   <h2>🌱 I’m currently learning </h2> 
-                          <p> Typescript --- My Front End Skills are the PERN stack </p>
+                          <p> Typescript and UI/UX Design --- My Front End Skills are the PERN stack </p>
                   <h2>👯 I’m looking to collaborate on </h2> 
                           <p> TS related projects </p>
                   <h2>🤔 I’m looking for help with </h2> 
