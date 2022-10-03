@@ -274,8 +274,8 @@
   </a>
 </p>
 
-<p align="center"><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanomarquez&show_icons=true&locale=en&layout=compact" alt="nanomarquez" /></p>
+<p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanomarquez&show_icons=true&locale=en&layout=compact" alt="nanomarquez" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nanomarquez&show_icons=true&locale=en" alt="nanomarquez" /></p>
+<p align="center">&nbsp;<img align="center"  width="400" src="https://github-readme-stats.vercel.app/api?username=nanomarquez&show_icons=true&locale=en" alt="nanomarquez" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nanomarquez&" alt="nanomarquez" /></p>
+<p align="center"><img align="center"  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nanomarquez&" alt="nanomarquez" /></p>
