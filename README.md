@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/h408T6Y5GfmXBKW62l/200w.gif?cid=82a1493bquwzfl92zuccp4jca7hkop9qrwif8ij36nefbh69&rid=200w.gif&ct=g)](https://new-portfolio-bynano.vercel.app/)
+[![MasterHead](https://thumbs.dreamstime.com/b/web-blue-banner-software-ui-development-different-devices-laptop-smartphone-coding-app-business-dashboard-analytics-245636263.jpg)](https://new-portfolio-bynano.vercel.app/)
 <h1 align="center">Hi 👋, I'm Federico Marquez</h1>
 <h3 align="center">I'm Full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
