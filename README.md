@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Federico Marquez</h1>
 <h3 align="center">I'm Full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+
 - 🌱 I’m currently learning **Design UX/UI and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://new-portfolio-bynano.vercel.app/](https://new-portfolio-bynano.vercel.app/)
+- 👨‍💻 All of my projects are available in [my Porfolio](https://new-portfolio-bynano.vercel.app/)
 
 - 💬 Ask me about **React, Javascript, Node, Sequelize.**
 
 - 📫 How to reach me **nanomarqueztres@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1naNVBBPT7KTnHZYbvPyDMvELYFdzMpJm/view](https://drive.google.com/file/d/1naNVBBPT7KTnHZYbvPyDMvELYFdzMpJm/view)
+- 📄 Know about my experiences [>CV<](https://drive.google.com/file/d/1naNVBBPT7KTnHZYbvPyDMvELYFdzMpJm/view)
 
 - ⚡I'm interesting in **Front-end**
 
