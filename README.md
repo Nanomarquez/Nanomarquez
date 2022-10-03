@@ -22,9 +22,9 @@
 </p>
 
 <h2 align="center">Skills:</h2>
-<h3 align="left">Front end</h3>
+<h3 align="center">Front end</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -114,8 +114,8 @@
     />
   </a>
 </p>
-<h3 align="left">Back end</h3>
-<p>
+<h3 align="center">Back end</h3>
+<p align="center">
     <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
@@ -189,9 +189,9 @@
     />
   </a>
 </p>
-<h3 align="left">Tools</h3>
+<h3 align="center">Tools</h3>
 
-<p>
+<p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -274,7 +274,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanomarquez&show_icons=true&locale=en&layout=compact" alt="nanomarquez" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanomarquez&show_icons=true&locale=en&layout=compact" alt="nanomarquez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nanomarquez&show_icons=true&locale=en" alt="nanomarquez" /></p>
 
