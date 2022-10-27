@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [>CV<](https://docs.google.com/document/d/16bpNie9r7fw81DHseSXmAYow1m8E8b7Y/edit?usp=sharing&ouid=111625148645902674765&rtpof=true&sd=true)
 
-- ⚡I'm interesting in **Front-end**
+- ⚡I'm interesting in **Full-stack role**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
