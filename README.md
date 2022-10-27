@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nanomarqueztres@gmail.com**
 
-- 📄 Know about my experiences [>CV<](https://drive.google.com/file/d/1naNVBBPT7KTnHZYbvPyDMvELYFdzMpJm/view)
+- 📄 Know about my experiences [>CV<](https://docs.google.com/document/d/16bpNie9r7fw81DHseSXmAYow1m8E8b7Y/edit?usp=sharing&ouid=111625148645902674765&rtpof=true&sd=true)
 
 - ⚡I'm interesting in **Front-end**
 
