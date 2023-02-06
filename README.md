@@ -14,6 +14,8 @@
 
 - ⚡I'm interesting in **Full-stack role**
 
+- ⚡I'm working in **aiMonkey** <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://media.licdn.com/dms/image/C4E0BAQEN3yqjZ-EMwQ/company-logo_200_200/0/1674012905718?e=2147483647&v=beta&t=bq_-jYqUOTLNxgUPfVkUFgVDUc7C8p2vnM0H3CKlTMs)" alt="https://www.linkedin.com/in/federico-marquez-139ba1236" height="30" width="40" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/federico-marquez-139ba1236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/federico-marquez-139ba1236" height="30" width="40" /></a>
