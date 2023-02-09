@@ -2,7 +2,7 @@
 <h3 align="center">I'm Full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
-- 🌱 I’m currently learning **Design UX/UI and Typescript**
+- 🌱 I’m recently learned **Design UX/UI and Typescript** and now im focus in **Next.js 13.0**
 
 - 👨‍💻 All of my projects are available in [my Porfolio](https://new-portfolio-bynano.vercel.app/)
 
