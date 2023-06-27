@@ -2,7 +2,7 @@
 <h3 align="center">I'm Full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
-- 🌱 I’m recently learned **Design UX/UI and Typescript** and now im focus in **Next.js 13.0**
+- 🌱 I’m recently learned **Design UX/UI and Typescript** and now im focus in **.NET C# & EntityFramework**
 
 - 👨‍💻 All of my projects are available in [my Porfolio](https://new-portfolio-bynano.vercel.app/)
 
@@ -14,7 +14,7 @@
 
 - ⚡I'm interesting in **Full-stack role**
 
-- ⚡I'm working in **aiMonkey** <img align="center" src="https://media.licdn.com/dms/image/C4E0BAQEN3yqjZ-EMwQ/company-logo_200_200/0/1674012905718?e=2147483647&v=beta&t=bq_-jYqUOTLNxgUPfVkUFgVDUc7C8p2vnM0H3CKlTMs" height="30" width="40" />
+- ⚡I'm working in **BeProactive** <img align="center" src="https://media.licdn.com/dms/image/C4E0BAQEN3yqjZ-EMwQ/company-logo_200_200/0/1674012905718?e=2147483647&v=beta&t=bq_-jYqUOTLNxgUPfVkUFgVDUc7C8p2vnM0H3CKlTMs" height="30" width="40" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
