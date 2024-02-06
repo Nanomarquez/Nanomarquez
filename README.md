@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available in [my Porfolio](https://new-portfolio-bynano.vercel.app/)
 
-- 💬 Ask me about **React, Javascript, Node, Sequelize.**
+- 💬 Ask me about **React, Javascript, Node, C#, NextJS.**
 
 - 📫 How to reach me **fmarquez@aimonkey.io**
 
