@@ -8,13 +8,13 @@
 
 - 💬 Ask me about **React, Javascript, Node, C#, NextJS.**
 
-- 📫 How to reach me **fmarquez@aimonkey.io**
+- 📫 How to reach me **nanomarqueztres@gmail.com**
 
 - 📄 Know about my experiences [>CV<](https://docs.google.com/document/d/1YP314B1dqMm5uGag9VyxXt9_sVOcsPUNJblL5VoPRx8/edit?usp=sharing)
 
 - ⚡I'm interesting in **Full-stack role**
 
-- ⚡I'm working in **BeProactive** <img align="center" src="https://media.licdn.com/dms/image/C4E0BAQEN3yqjZ-EMwQ/company-logo_200_200/0/1674012905718?e=2147483647&v=beta&t=bq_-jYqUOTLNxgUPfVkUFgVDUc7C8p2vnM0H3CKlTMs" height="30" width="40" />
+- ⚡I'm working in **Educabot** <img align="center" src="https://media.licdn.com/dms/image/v2/C4E0BAQEYeJMmCFvStw/company-logo_200_200/company-logo_200_200/0/1630643536985/educabot_logo?e=1745452800&v=beta&t=jHnIFQpIu6BusnV3OXEA-smn1715lQ-NPpwCkt2BhPc" height="40" width="40" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
